@@ -21,7 +21,7 @@
 ~~fix rerender on currency change (is it possible?)~~
 ~~fix bag: sorting on currency change~~
 
-~~show more clickable (visible?) only if there *is* more to show
+~~show more clickable (visible?) only if there *is* more to show~~
 
 ## navbar
 figure out match
